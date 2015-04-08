@@ -24,5 +24,5 @@ TFTPD-HPA
 Snort
 MQTT
 StrongSwarm
-mongodb (https://github.com/nmcl/mongo4pi)
+SQLLite3
 
