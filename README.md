@@ -1,10 +1,18 @@
-# doc
-# arpgate
+# Doc
 
 Requirements:
 
 Raspberry Pi 2 Model B
 8Gb micro SD card
+=======
+
+Arpgate
+
+connect your home
+
+Requirements:
+
+Raspberry Pi 2 Model B 8Gb micro SD card
 
 Installation of Ubuntu Trusty Tahr 14.04 on Rasspberry PI: https://wiki.ubuntu.com/ARM/RaspberryP
 
@@ -51,4 +59,19 @@ The UI connects using JQuery to our arpgate/manage REST services and the MQTT br
 
 
 
+=======
+Upcoming: We are working on a Puppet script to install the following Arpgate components:
+
+Golang
+Nginx
+HAproxy
+nmap
+iptables
+isc-dhcp-server
+TFTPD-HPA
+Snort
+MQTT
+StrongSwarm
+SQLLite3
+>>>>>>> 415a3bca1315a6ea0062708654ebb2edccbac327
 
